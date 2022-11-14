@@ -10,7 +10,9 @@ This application was made to help people get started in the world of Mobile Deve
 
 ### Preview of app
 
-[[]](https://github.com/SklyerX/fake-notification/blob/main/RPReplay_Final1668385007.mp4)
+[Watch Video In External Website](https://github.com/SklyerX/fake-notification/blob/main/RPReplay_Final1668385007.mp4)
+
+[Wath Video In Github](https://www.veed.io/view/6091122e-da30-4d18-b5d8-e4283f91cc5e?panel=share](https://github.com/SklyerX/fake-notification/blob/main/RPReplay_Final1668385007.mp4)
 
 ### Comments
 
