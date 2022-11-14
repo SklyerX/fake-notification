@@ -10,7 +10,7 @@ This application was made to help people get started in the world of Mobile Deve
 
 ### Preview of app
 
-[]
+[[]](https://github.com/SklyerX/fake-notification/blob/main/RPReplay_Final1668385007.mp4)
 
 ### Comments
 
